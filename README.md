@@ -13,7 +13,7 @@ This is a Streamlit-based AI chatbot that leverages Google Gemini API to provide
 
 🛠 Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/AbhishekKantharia/AIConversationalDataScienceTutor.git
+git clone 
 cd AIConversationalDataScienceTutor
 2️⃣ Install Dependencies
 Ensure you have Python installed, then run:
